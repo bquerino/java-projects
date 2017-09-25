@@ -1,3 +1,2 @@
-# Demo project from PluralSight :)
-# First spring boot App
-
+#Getting started with JAVA Spring Boot
+This code was forked from this course(Pluralsight).
